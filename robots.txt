@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationarlingtonheights.com/sitemap.xml
